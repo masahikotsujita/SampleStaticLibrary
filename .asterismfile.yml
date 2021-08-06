@@ -1,8 +1,8 @@
 version: "1.0"
-name: SampleStaticLibrary
-sln_path: Project/windows/SampleStaticLibrary.sln
+name: SampleStaticLibraryE
+sln_path: Project/windows/SampleStaticLibraryE.sln
 artifacts:
   include_headers:
     - Include/*
   link_libraries:
-    - Dist/SampleStaticLibrary_${PLATFORM}_${CONFIGURATION}.lib
+    - Dist/SampleStaticLibraryE_${PLATFORM}_${CONFIGURATION}.lib

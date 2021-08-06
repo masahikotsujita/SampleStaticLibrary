@@ -18,12 +18,12 @@
     <ClInclude Include="targetver.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Include\SampleStaticLibrary.h">
+    <ClInclude Include="..\..\Include\SampleStaticLibraryE.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\SampleStaticLibrary.cpp">
+    <ClCompile Include="..\..\Source\SampleStaticLibraryE.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
